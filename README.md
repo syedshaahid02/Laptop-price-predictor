@@ -47,6 +47,6 @@ The "Laptop Price Prediction" project is a machine learning-based application de
 - Data visualization libraries for presenting insights.
 
 **Project Timeline:**
-This project is expected to be completed in approximately 3-4 months, with milestones for each of the objectives outlined above.
+This project is expected to be completed in approximately 1-2 months, with milestones for each of the objectives outlined above.
 
 By the end of this project, users will have access to a valuable tool that can assist them in making informed decisions when purchasing laptops, while also providing insights into the factors influencing laptop pricing in the market. The application's deployment on Heroku ensures easy accessibility for a wide range of users.
