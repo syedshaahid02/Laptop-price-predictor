@@ -21,11 +21,6 @@ The "Laptop Price Prediction" project is a machine learning-based application de
 
 7. **User Interface Design:** Create an intuitive and aesthetically pleasing user interface for the web application, ensuring a seamless user experience.
 
-8. **Testing and Validation:** Thoroughly test the application to ensure accurate price predictions and a smooth user experience. Address any issues or bugs that arise during testing.
-
-9. **Documentation:** Provide comprehensive documentation for both the machine learning model and the web application, including instructions for users and developers.
-
-10. **Maintenance and Updates:** Regularly update the dataset and retrain the model to keep it up-to-date with the latest laptop models and pricing trends. Address any issues or bugs reported by users and make improvements as needed.
 
 **Expected Outcomes:**
 - An accurate and reliable machine learning model for predicting laptop prices.
