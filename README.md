@@ -1,6 +1,6 @@
 # Laptop-price-predictor
 
-**Project Title: Laptop Price Prediction with Machine Learning Deployment on Heroku Cloud**
+**Project Title: Laptop Price Prediction with Machine Learning **
 
 **Project Overview:**
 The "Laptop Price Prediction" project is a machine learning-based application designed to assist users in predicting the price of laptops based on various features and specifications. In today's rapidly evolving technology market, consumers and businesses often struggle to make informed decisions when purchasing laptops due to the sheer variety of options available. This project aims to provide a solution by leveraging machine learning algorithms to predict laptop prices accurately.
